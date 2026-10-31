@@ -1,0 +1,6 @@
+{
+  "name": "MOHABBAT AI",
+  "description": "Feel Every Emotion - AI Romantic & Sad Shayari, Emotional Voice Studio, 9:16 Reel Studio & Music Studio",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

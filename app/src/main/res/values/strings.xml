@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MOHABBAT AI</string>
+    <string name="tagline">Feel Every Emotion</string>
+    <string name="dashboard_title">MOHABBAT AI</string>
+    <string name="create_new_reel">Create Sad Reel</string>
+    <string name="shayari_generator">AI Shayari Generator</string>
+    <string name="voice_studio">AI Voice Studio</string>
+    <string name="video_studio">Video Studio (9:16)</string>
+    <string name="music_studio">Music Studio</string>
+    <string name="my_projects">My Projects</string>
+    <string name="instagram_connect">Instagram Connect</string>
+</resources>
